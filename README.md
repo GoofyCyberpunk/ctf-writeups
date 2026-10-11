@@ -10,7 +10,8 @@ Which TCP port is open on the machine? 6379 is open
 
 sudo nmap -p- -sV -sS <target_IP>
 
-![Nmap-Scan](task-1-2-7.png)
+<img width="761" height="273" alt="Task 1,2,7" src="https://github.com/user-attachments/assets/86656c72-1e0c-415d-a2ad-f9551bc2b116" />
+
 Starting Nmap 7.95 ( https://nmap.org ) at 2026-10-11 11:55 EDT
 Nmap scan report for 10.129.17.51
 Host is up (0.0085s latency).
@@ -26,7 +27,7 @@ Which service is running on the port that is open on the machine? redis
 
 sudo nmap -p- -sV -sS <target-ip>
 
-![Nmap-Scan](task-1-2-7.png)
+
 Starting Nmap 7.95 ( https://nmap.org ) at 2026-10-11 11:55 EDT
 Nmap scan report for 10.129.17.51
 Host is up (0.0085s latency).
@@ -84,7 +85,7 @@ How many keys are present inside the database with index 0?
 doing: connect to redis database first -> redis-cli -h <target_IP>
 command-> info
 
-![redis-cli info](task-9.png)
+
 
 Answer: 4
 --------------------------------------------------------------
