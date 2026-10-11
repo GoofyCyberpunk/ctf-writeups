@@ -66,9 +66,12 @@ Answer: 200
 
 -------------------------------------------
 
-After logging on the webpage wirh default credenticals admin:admin i got the flag!
+After logging on the webpage wirh default credentials admin:admin i got the flag!
 
 <img width="1045" height="358" alt="Preignition-root-flag" src="https://github.com/user-attachments/assets/e72c8c4e-e5af-444c-9382-2a295ddb878d" />
 
 
 Submit the flag located in the webpage.
+
+<img width="648" height="534" alt="Preignition-solved" src="https://github.com/user-attachments/assets/5039fd39-7d4e-4c05-a4ab-a7613340077a" />
+
