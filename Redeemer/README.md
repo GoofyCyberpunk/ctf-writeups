@@ -1,7 +1,7 @@
-# ctf-writeups
-This is my personal journey for CTFs
+<img width="483" height="164" alt="Redeemer" src="https://github.com/user-attachments/assets/af09b14b-75e6-4f23-af6b-e8e4e9d4a3d3" />
 
-Hackthebox Lab: Redeemer
+
+About
 
 Redeemer is a very easy Linux machine which explores the enumeration and exploitation of a Redis database server while showcasing the redis-cli command line utility and basic commands to interact with the Redis service.
 
@@ -82,3 +82,6 @@ doing: then SELECT the databse where the key is stored, #Keyspace in this case i
 doing: then get the flag with: get flag
 
 You have solved Redeemer!
+
+<img width="862" height="540" alt="Redeemer-solved" src="https://github.com/user-attachments/assets/47639a77-2a8f-4c83-aa69-f6097e7b1db8" />
+
