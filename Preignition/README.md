@@ -10,3 +10,15 @@ Directory Brute-forcing is a technique used to check a lot of paths on a web ser
 Answer: dir busting
 
 -------------------------------------------
+Task 2
+What switch do we use for nmap's scan to specify that we want to perform version detection?
+
+Answer: sV
+
+-------------------------------------------
+Task 3
+What does Nmap report is the service identified as running on port 80/tcp?
+
+Answer: http
+
+-------------------------------------------
