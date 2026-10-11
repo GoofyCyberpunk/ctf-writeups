@@ -25,22 +25,27 @@ Task 3
 What type of database is Redis? Choose from the following options: (i) In-memory Database, (ii) Traditional Database
 
 Answer: googling redis database -> In-memory Database
+
 --------------------------------------------------------------
 Task 4
 Which command-line utility is used to interact with the Redis server? Enter the program name you would enter into the terminal without any arguments.
 
 Answer: googlinng command-line utility used is -> redis-cli
+
 --------------------------------------------------------------
 Task 5
 Which flag is used with the Redis command-line utility to specify the hostname?
 
 Answer: googling Redis command-line utility to specify the hostname -> -h
+
 --------------------------------------------------------------
 Task 6
 Once connected to a Redis server, which command is used to obtain the information and statistics about the Redis server?
 
 googling hich command is used to obtain the information and statistics about the Redis server?
+
 Answer: info
+
 --------------------------------------------------------------
 Task 7
 What is the version of the Redis server being used on the target machine?
@@ -55,12 +60,15 @@ PORT     STATE SERVICE VERSION
 6379/tcp open  redis   Redis key-value store 5.0.7
 
 Answer: After scanning the target under services -> 5.0.7
+
 --------------------------------------------------------------
 Task 8
 Which command is used to select the desired database in Redis?
 
 googling Redis database Which command is used to select the desired database in Redis
+
 Answer: select
+
 --------------------------------------------------------------
 Task 9
 How many keys are present inside the database with index 0?
@@ -72,6 +80,7 @@ command-> info
 
 
 Answer: 4
+
 --------------------------------------------------------------
 Task 10
 Which command is used to obtain all the keys in a database?
