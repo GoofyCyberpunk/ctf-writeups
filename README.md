@@ -16,7 +16,7 @@ sudo nmap -p- -sV -sS <target_IP>
 Task 2
 Which service is running on the port that is open on the machine? redis
 
-sudo nmap -p- -sV -sS <target-ip>
+sudo nmap -p- -sV -sS <target_IP>
 
 <img width="761" height="273" alt="Task 1,2,7" src="https://github.com/user-attachments/assets/86656c72-1e0c-415d-a2ad-f9551bc2b116" />
 
