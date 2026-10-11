@@ -12,15 +12,6 @@ sudo nmap -p- -sV -sS <target_IP>
 
 <img width="761" height="273" alt="Task 1,2,7" src="https://github.com/user-attachments/assets/86656c72-1e0c-415d-a2ad-f9551bc2b116" />
 
-Starting Nmap 7.95 ( https://nmap.org ) at 2026-10-11 11:55 EDT
-Nmap scan report for 10.129.17.51
-Host is up (0.0085s latency).
-Not shown: 65534 closed tcp ports (reset)
-PORT     STATE SERVICE VERSION
-6379/tcp open  redis   Redis key-value store 5.0.7
-
-Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-Nmap done: 1 IP address (1 host up) scanned in 16.39 seconds
 --------------------------------------------------------------
 Task 2
 Which service is running on the port that is open on the machine? redis
