@@ -8,4 +8,5 @@ Task 1
 Directory Brute-forcing is a technique used to check a lot of paths on a web server to find hidden pages. Which is another name for this? (i) Local File Inclusion, (ii) dir busting, (iii) hash cracking.
 
 Answer: dir busting
+
 -------------------------------------------
