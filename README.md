@@ -93,6 +93,3 @@ doing: then SELECT the databse where the key is stored, #Keyspace in this case i
 doing: then get the flag with: get flag
 
 You have solved Redeemer!
-
-
-Answer: keys *
