@@ -26,7 +26,8 @@ Task 5
 What is the name of the service running on port 3389 TCP?
 
 doing: sudo nmap -p- -sS -sV <target_IP>
-<Einfügen!Explosion-task5.png>
+
+<img width="956" height="533" alt="Explosion-task5" src="https://github.com/user-attachments/assets/2506b79d-a251-48b6-b4c5-ef0b8ee4d5a1" />
 
 Answer: ms-wbt-server
 ------------------------------------------
