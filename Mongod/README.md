@@ -9,9 +9,11 @@ Connecting to MongoDB
 curl -O https://downloads.mongodb.com/compass/mongosh-2.3.2-linux-x64.tgz
 
 We must then extract the contents of the tar archive file using the tar utility
+
 tar xvf mongosh-2.3.2-linux-x64.tgz
 
 Navigate to the location where the mongosh binary is present.
+
 cd mongosh-2.3.2-linux-x64/bin
 
 Let's now try to connect to the MongoDB server running on the remote host as an anonymous user.
