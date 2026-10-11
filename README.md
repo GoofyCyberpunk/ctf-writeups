@@ -68,6 +68,7 @@ How many keys are present inside the database with index 0?
 doing: connect to redis database first -> redis-cli -h <target_IP>
 command-> info
 
+<img width="570" height="50" alt="Task 9" src="https://github.com/user-attachments/assets/f9d647ea-3fa5-4c9a-9281-7fcb8a380569" />
 
 
 Answer: 4
