@@ -4,6 +4,20 @@ About
 
 Mongod is a very easy Linux machine which introduces the MongoDB database and how to use the MongoDB shell utility to interact with it. Misconfiguring the database by leaving the anonymous user enabled, allows exploitation and full enumeration of the database.
 
+Connecting to MongoDB
+
+curl -O https://downloads.mongodb.com/compass/mongosh-2.3.2-linux-x64.tgz
+
+We must then extract the contents of the tar archive file using the tar utility
+tar xvf mongosh-2.3.2-linux-x64.tgz
+
+Navigate to the location where the mongosh binary is present.
+cd mongosh-2.3.2-linux-x64/bin
+
+Let's now try to connect to the MongoDB server running on the remote host as an anonymous user.
+./mongosh mongodb://{target_IP}:27017
+
+--------------------------------------------------
 Task 1
 How many TCP ports are open on the machine?
 
