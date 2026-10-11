@@ -1,4 +1,8 @@
-Hackthebox Lab: Explosion
+<img width="668" height="185" alt="Explosion" src="https://github.com/user-attachments/assets/c47d39c4-5a9f-4949-9da0-7e438d6f5fbd" />
+
+
+
+About
 
 Explosion is a very easy Windows machine that showcases the Remote Desktop Protocol (RDP), how to interact with it using the xfreerdp client and how improper configurations can allow unauthenticated access.
 
@@ -41,3 +45,6 @@ What username successfully returns a desktop projection to us with a blank passw
 
 Answer: administrator
 ------------------------------------------
+
+<img width="863" height="544" alt="Explosion-solved" src="https://github.com/user-attachments/assets/47071277-82b7-44f9-8dcb-d1b9d0d98e2d" />
+
