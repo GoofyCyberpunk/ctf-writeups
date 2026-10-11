@@ -7,7 +7,8 @@ Mongod is a very easy Linux machine which introduces the MongoDB database and ho
 Task 1
 How many TCP ports are open on the machine?
 
-<img width="432" height="146" alt="Screenshot From 2026-10-12 01-03-24" src="https://github.com/user-attachments/assets/73550d3e-6b28-4685-b408-759fa93f35a8" />
+<img width="812" height="311" alt="Mongod-scan" src="https://github.com/user-attachments/assets/550f16d5-3021-4722-8035-d323ede7b4fc" />
+
 
 Answer: 2
 
