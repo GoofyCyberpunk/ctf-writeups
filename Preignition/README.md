@@ -5,18 +5,21 @@ About
 Preignition is a very easy Linux machine which explores beginner enumeration and directory fuzzing of web applications. Upon finding a vulnerable Admin login endpoint, the web app showcases the dangers of improper configuration and default credentials.
 
 Task 1
+
 Directory Brute-forcing is a technique used to check a lot of paths on a web server to find hidden pages. Which is another name for this? (i) Local File Inclusion, (ii) dir busting, (iii) hash cracking.
 
 Answer: dir busting
 
 -------------------------------------------
 Task 2
+
 What switch do we use for nmap's scan to specify that we want to perform version detection?
 
 Answer: sV
 
 -------------------------------------------
 Task 3
+
 What does Nmap report is the service identified as running on port 80/tcp?
 
 Answer: http
