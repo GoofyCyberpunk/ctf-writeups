@@ -59,11 +59,16 @@ Answer: --list-only
 ----------------------------------------------
 Submit the flag located on the share.
 
-<img width="737" height="53" alt="Screenshot From 2026-10-12 14-32-01" src="https://github.com/user-attachments/assets/04df0658-a739-435b-9715-5c29c120a0b1" />
+rsync --list-only 10.129.18.113::public
+
+<img width="735" height="75" alt="Screenshot From 2026-10-12 14-34-19" src="https://github.com/user-attachments/assets/dc793469-e781-415b-be48-0d1ebed7bbca" />
+
+rsync 10.129.18.113::public/flag.txt flag.txt
+
+<img width="729" height="45" alt="Screenshot From 2026-10-12 14-35-20" src="https://github.com/user-attachments/assets/676f6671-ffa6-4db8-8758-fbdf14bfc59f" />
 
 
-
-Answer: <img width="794" height="49" alt="Get-flag" src="https://github.com/user-attachments/assets/d94c4ddc-9ba7-4ea0-acf5-782903b0840c" />
+<img width="794" height="49" alt="Get-flag" src="https://github.com/user-attachments/assets/d94c4ddc-9ba7-4ea0-acf5-782903b0840c" />
 
 <img width="642" height="546" alt="Synced-solved" src="https://github.com/user-attachments/assets/1b77f2dd-95bc-4b7a-aa7d-3ac44129e561" />
 
