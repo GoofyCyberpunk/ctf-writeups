@@ -86,3 +86,6 @@ db.flag.find()
 
 
 Answer: db.flag.find()
+
+<img width="632" height="552" alt="Mongod-solved" src="https://github.com/user-attachments/assets/19bb67a4-a95b-4192-879a-4c2905220842" />
+
