@@ -66,12 +66,20 @@ Answer: show collections
 Task 7
 What command is used to dump the content of all the documents within the collection named flag?
 
+
+show dbs
+
 <img width="362" height="146" alt="show-dbs" src="https://github.com/user-attachments/assets/e1ea81c9-580f-473a-86b4-98545b8a8c51" />
+
+use sensitive_information
 
 <img width="385" height="52" alt="sensetive mode" src="https://github.com/user-attachments/assets/fac12188-b822-4d5b-b4be-6198e1417096" />
 
+show collections;
 
 <img width="400" height="59" alt="shwo-flag" src="https://github.com/user-attachments/assets/2ecdecc3-91a4-48d6-beb2-1ed637fa94a2" />
+
+db.flag.find()
 
 <img width="468" height="175" alt="flag" src="https://github.com/user-attachments/assets/ba54298b-80fc-4883-8744-487c8efc0d99" />
 
