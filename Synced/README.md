@@ -65,13 +65,16 @@ rsync --list-only 10.129.18.113::public
 
 rsync 10.129.18.113::public/flag.txt flag.txt
 
-<img width="729" height="45" alt="Screenshot From 2026-10-12 14-35-20" src="https://github.com/user-attachments/assets/676f6671-ffa6-4db8-8758-fbdf14bfc59f" />
 
 Copy flag to local machine
 
-<img width="794" height="49" alt="Get-flag" src="https://github.com/user-attachments/assets/d94c4ddc-9ba7-4ea0-acf5-782903b0840c" />
+
+<img width="729" height="45" alt="Screenshot From 2026-10-12 14-35-20" src="https://github.com/user-attachments/assets/676f6671-ffa6-4db8-8758-fbdf14bfc59f" />
+
 
 cat flag.txt
+
+<img width="794" height="49" alt="Get-flag" src="https://github.com/user-attachments/assets/d94c4ddc-9ba7-4ea0-acf5-782903b0840c" />
 
 <img width="642" height="546" alt="Synced-solved" src="https://github.com/user-attachments/assets/1b77f2dd-95bc-4b7a-aa7d-3ac44129e561" />
 
