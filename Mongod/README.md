@@ -19,6 +19,8 @@ cd mongosh-2.3.2-linux-x64/bin
 Let's now try to connect to the MongoDB server running on the remote host as an anonymous user.
 ./mongosh mongodb://{target_IP}:27017
 
+HELP: https://blog.e-zest.com/basic-commands-for-mongodb
+
 --------------------------------------------------
 Task 1
 How many TCP ports are open on the machine?
